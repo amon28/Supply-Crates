@@ -1,10 +1,6 @@
-# Player-Head
-Gets player head when you kill someone.
+# Supply Crates
+Drops a supply crate on command for players.
 
-# How To Install (recommended to have DevTools)
-●1.Download the plugin.
-●2.Go to Pocketmine folder.
-●3.Open Plugins folder.
-●4.Copy the plugin folder.
-●5.Paste the Plugin folder in the plugins.
-●6.Enjoy!
+# How to use
+In the config file you can there set the Items that would be inside the chest.
+You can add enchant on the item or a custom name!
