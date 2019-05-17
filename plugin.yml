@@ -1,0 +1,10 @@
+name: SupplyCrates
+version: 1.0
+main: SupplyCrates\Main
+api: [3.0.0]
+author: Amon
+
+commands:
+ crate:
+  permission: crate.use
+  description: Drop Crate

@@ -1,0 +1,14 @@
+---
+## - "Item Id,Meta Data/Damage,Count,Enchant Id-Enchant lvl,Custom Name"
+
+##Enchantment ID's VVV
+##https://github.com/pmmp/PocketMine-MP/blob/stable/src/pocketmine/item/enchantment/Enchantment.php
+
+##You can only put a total of 27 items in Items:
+
+## "2,0,1,,name" Do this if you do not want an enchantment but want a name
+
+Items:
+- "1,0,6,1-1,Awesomeee"
+- "2,0,1,2-1"
+...
