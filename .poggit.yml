@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/amon28/Supply-Crates
+branches:
+- master
+projects:
+  Supply-Crates:
+    path: ""
+...
